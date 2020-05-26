@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "61884297829",
+    "firebase_url": "https://sparksfirebase.firebaseio.com",
+    "project_id": "sparksfirebase",
+    "storage_bucket": "sparksfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61884297829:android:4a61a15ae8ef7b57084c8c",
+        "android_client_info": {
+          "package_name": "com.example.FirebaseApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61884297829-alu4o591l169f8nj35bc2coe0al0nj0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD99Sei6zOxOzrNnmndrGX0ocbecoBRwfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61884297829-alu4o591l169f8nj35bc2coe0al0nj0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
